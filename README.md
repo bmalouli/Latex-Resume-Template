@@ -10,6 +10,10 @@ This LaTeX resume template is structured for easy editing, ensuring a well-organ
 - **Fully Customizable**: Modify sections easily with LaTeX commands.
 - **Hyperlinks Support**: LinkedIn, GitHub, email and personal website integration.
 
+## Preview
+Here’s an example of what the compiled resume template can look like (replace the image path with your own screenshot):
+![image](https://github.com/user-attachments/assets/7c9108ba-1eba-4bda-8028-6e988c0a1302)
+
 ## Installation & Usage
 ### Prerequisites
 - A free account on [Overleaf](https://www.overleaf.com/)
